@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SoftwareEngineeringIGradleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SoftwareEngineeringIGradleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SoftwareEngineeringIGradleTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SoftwareEngineeringIGradleTest_main.iml" group="SoftwareEngineeringIGradleTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SoftwareEngineeringIGradleTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SoftwareEngineeringIGradleTest_test.iml" group="SoftwareEngineeringIGradleTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionality/functionality.iml" filepath="$PROJECT_DIR$/.idea/modules/functionality/functionality.iml" group="functionality" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionality/functionality_main.iml" filepath="$PROJECT_DIR$/.idea/modules/functionality/functionality_main.iml" group="functionality" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionality/functionality_test.iml" filepath="$PROJECT_DIR$/.idea/modules/functionality/functionality_test.iml" group="functionality" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gui/gui.iml" filepath="$PROJECT_DIR$/.idea/modules/gui/gui.iml" group="gui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gui/gui_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gui/gui_main.iml" group="gui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gui/gui_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gui/gui_test.iml" group="gui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionality/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/functionality/interfaces/interfaces.iml" group="functionality/interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionality/interfaces/interfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/functionality/interfaces/interfaces_main.iml" group="functionality/interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functionality/interfaces/interfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/functionality/interfaces/interfaces_test.iml" group="functionality/interfaces" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="functionality_main" target="1.8" />
+      <module name="functionality_test" target="1.8" />
+      <module name="gui_main" target="1.8" />
+      <module name="gui_test" target="1.8" />
+      <module name="interfaces_main" target="1.8" />
+      <module name="interfaces_test" target="1.8" />
+      <module name="SoftwareEngineeringIGradleTest_main" target="1.8" />
+      <module name="SoftwareEngineeringIGradleTest_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
